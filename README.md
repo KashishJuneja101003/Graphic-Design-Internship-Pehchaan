@@ -28,7 +28,7 @@ This carousel post celebrates birthdays with the theme "Celebrate your day with 
 
 ## Getting Started
 
-To download the projects, simply navigate to the respective project file within this repository. 
+To download the projects, simply navigate to the respective project file within this repository and click on "download raw file" or click on "ctrl + shift + s". 
 
 ## Tools Used
 
