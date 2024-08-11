@@ -44,6 +44,22 @@ This project focuses on advocating for education equality in India and highlight
 - **Tools Used**: Canva
 - **Content**: Graphics, text, and hyperlinks emphasizing the importance of education equality and the actions taken to achieve it.
 
+### Project 5: Hiring Post
+[View Project](https://drive.google.com/file/d/16PD71cLBVCLkJa8s6SWeLtjGW35vA3L1/view?usp=drive_link)
+
+This post invites individuals to join Pehchaan The Street School, emphasizing the importance of contributing to a cause and making a difference.
+
+- **Tools Used**: Canva
+- **Content**: Graphics, text, and a call to action encouraging people to become part of the initiative.
+
+### Project 6: Sponsor a Child
+[View Project](https://drive.google.com/file/d/1MXltbi8NuZxeqUyAj0a7QyyjaKvVg3k3/view?usp=drive_link)
+
+This project aims to encourage sponsorship for children's education, highlighting the impact of such support on their future.
+
+- **Tools Used**: Canva
+- **Content**: Graphics and text that promote the benefits of sponsoring a child's education and the positive impact it can have on their life.
+
 ## Getting Started
 
 To download the projects, simply navigate to the respective project file within this repository and click on "download raw file" or press "ctrl + shift + s".
